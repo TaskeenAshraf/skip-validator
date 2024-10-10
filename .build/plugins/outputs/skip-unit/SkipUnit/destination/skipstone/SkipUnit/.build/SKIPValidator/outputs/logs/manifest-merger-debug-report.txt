@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml:2:13-83
+INJECTED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml:2:13-83
+	package
+		INJECTED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml
+	xmlns:android
+		ADDED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml:2:23-81
+uses-sdk
+INJECTED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml reason: use-sdk injection requested
+INJECTED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml
+INJECTED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml
+	android:targetSdkVersion
+		INJECTED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml
+	android:minSdkVersion
+		INJECTED from /Users/taskeenashraf/Downloads/output/skip-validator/.build/plugins/outputs/skip-validator/SKIPValidatorTests/destination/skipstone/SkipUnit/.build/SKIPValidator/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16601793325599447762.xml

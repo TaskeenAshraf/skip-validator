@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="skipvalidator.SKIPValidatorTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-10T06:50:17" hostname="Taskeens-MacBook-Pro.local" time="0.554">
+  <properties/>
+  <testcase name="testSKIPValidator$SKIPValidator_debugUnitTest" classname="skipvalidator.SKIPValidatorTests" time="0.554"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Oct 10, 2024 11:50:17 AM skip.foundation.SkipLogger log
+INFO: running testSKIPValidator
+]]></system-err>
+</testsuite>
